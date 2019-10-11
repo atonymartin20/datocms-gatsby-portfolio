@@ -19,6 +19,7 @@
     "react-helmet": "^5.2.0",
     "react-masonry-component": "^6.2.1",
     "react-slick": "^0.23.1",
+    "set-value": "^3.0.1",
     "slick-carousel": "^1.8.1"
   },
   "keywords": [
